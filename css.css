@@ -37,7 +37,7 @@
   #bg-img-4{
     background-color: #006156;
     width: 1349px;
-    height: 700px;
+    height: auto;
   }
   #bg-img-5{
     background-attachment: scroll, scroll;
@@ -592,4 +592,19 @@
       .hind-14{
         position: relative;
       }
-    
+      .hind-15{
+        position: relative;
+      }
+      .hind-18{
+        position: absolute;
+        top: 200px;
+        left: 200px;
+      }
+      .hind-19{
+        margin-left: 50px;
+      }
+      .text-6 h1{
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 800;
+      }
