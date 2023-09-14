@@ -46,7 +46,7 @@
     background-position: 0px 100%, calc(100% + 45px) 100px;
     background-repeat: no-repeat, no-repeat;
     width: 1349px;
-    height: 487.7px;
+    height: auto;
   }
   .bg-img-6{
     background-color: white;
@@ -514,7 +514,8 @@
       }
       .hind8{
         display: flex;
-       width: 100%;
+        width: 100%;
+        padding: 0;
       }
       .hind-12{
        padding: 0 0 0  135px;
@@ -582,19 +583,34 @@
           position: relative;
         }
       }
-      .text-5{
-        margin-top: 200px;
-        margin-left: 30px;
+      .hind9{
+        padding: 120px 0 0  30px;
+        display: flex;
       }
-      .text-5 h1{
+    
+     .text-5{
+        margin-left: 60px;
+      }
+
+     .text-5 h1{
           color: black;
           font-size: 3rem;
+          font-family: Arial, Helvetica, sans-serif;
+          font-weight: 800;
       }
-      .hind-14{
+      .text-5 p{
+        font-size: 15px;
+        line-height: 26px;
+        margin-top: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+      }
+       /*  .hind-14{
         position: relative;
       }
       .hind-15{
         position: relative;
+     
       }
       .hind-16{
         position: relative;
@@ -612,14 +628,8 @@
         font-size: 50px;
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 800;
-      }
-      .text-6 p{
-        font-size: 15px;
-        line-height: 26px;
-        margin-top: 19px;
         margin-left: 38px;
-        font-family: Arial, Helvetica, sans-serif;
       }
       /* .hind-17 img{
      
-      } */
+      } */ 
