@@ -514,6 +514,7 @@
       }
       .hind8{
         display: flex;
+       width: 100%;
       }
       .hind-12{
        padding: 0 0 0  135px;
@@ -595,6 +596,9 @@
       .hind-15{
         position: relative;
       }
+      .hind-16{
+        position: relative;
+      }
       .hind-18{
         position: absolute;
         top: 200px;
@@ -602,9 +606,20 @@
       }
       .hind-19{
         margin-left: 50px;
+        padding: 0;
       }
       .text-6 h1{
         font-size: 50px;
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 800;
       }
+      .text-6 p{
+        font-size: 15px;
+        line-height: 26px;
+        margin-top: 19px;
+        margin-left: 38px;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      /* .hind-17 img{
+     
+      } */
