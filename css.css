@@ -53,6 +53,12 @@
     width: 1349px;
     height: 827.406px;
   }
+  .bg-img-7{
+    background-image: url("./img/complate\ abstract.svg");
+    background-color: #def5f2;
+    width: 1349px;
+    height: 827.406px;
+  }
 #navbar {
     color: rgb(13, 26, 38);
     display: flex;
