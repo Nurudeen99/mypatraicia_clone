@@ -649,5 +649,22 @@
      .hind-22 img{
       margin-top: 5px;
      }
+     .hind-23{
+      margin-left: 50px;
+      position: relative;
+     }
+     .hind-24{
+      position: absolute;
+      top: -20px;
+      left: 300px;
+     }
+     .hind-26{
+      position: absolute;
+      top: -20px;
+     }
+     .hind-25 img{
+      margin-top: 30px;
+      margin-left: 20px;
+     }
 
    
