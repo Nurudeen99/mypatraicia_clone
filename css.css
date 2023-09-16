@@ -59,6 +59,11 @@
     width: 1349px;
     height: 827.406px;
   }
+  .bg-img-8{
+    background-image: url("./img/blue\ abstract.svg");
+    width: 1349px;
+    height: 554px;
+  }
 #navbar {
     color: rgb(13, 26, 38);
     display: flex;
@@ -595,7 +600,7 @@
       }
     
      .text-5{
-        margin-left: 60px;
+           margin-left: 60px;
       }
 
      .text-5 h1{
@@ -672,5 +677,93 @@
       margin-top: 30px;
       margin-left: 20px;
      }
+    .hind11{
+      display: flex;
+      width: 100%;
+      padding: 0 30px 0 30px ;
+    
 
-   
+    }
+    .hind-27{  
+      width: 33%;
+      margin-top: 150px;
+      padding: 53px 75px 53px 75px;
+    }
+     .hind-27 h1{
+      font-size: 30px;
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+      margin: 0 0 45px 0;
+      line-height: 39px;
+     }
+     .hind-27 img{
+     margin-left: 100px;
+     margin-bottom: 40px;
+     }
+     .hind-27 p{
+      font-size: 15px;
+      color: gray;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 22px;
+     }
+
+    .vl {
+      border-left: 1px solid grey;
+      height: 500px;
+      margin-top: 150px;
+    }
+   .hind-28{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+   }
+   .hind-29{
+    display: flex;
+    
+   }
+   .hind-30 h1{
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 50px;
+      margin-top: 100px;
+      margin-left: 150px;
+   }
+   .hind-30 p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 32px;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-left: 150px;
+   }
+   .hind-31{
+    margin-top: 100px;
+    margin-left: 150px;    
+   }
+   .hind-31 a{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    width: 258px;
+    height: 69px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+   }
+   .button3{
+    background-color: #ffce00;
+    color: black;
+   }
+   .button4{
+    border: 2px solid white;
+    color: white;
+   }
+   .marg1{
+    margin-top: 20px;
+   }
