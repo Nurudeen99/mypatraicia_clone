@@ -767,3 +767,52 @@
    .marg1{
     margin-top: 20px;
    }
+   .hind-33{
+    margin-top: 50px;
+    justify-content: center;
+    border-radius: 20px;
+    display: flex;
+    width: 100%;
+   }
+   .hind-34{
+    margin-left: 50px;
+    border-radius: 20px;
+    margin-bottom: 90px;
+    box-shadow: 1px 1px  1px 0px rgba(0,0,0,0.6);
+   }
+   .hind-34 img{
+    width: 450px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+   }
+   /* .hind-35 img:hover{
+    
+   } */
+   .hind-34 h1{
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #006156;
+    line-height: 26px;
+   }
+   .hind-34 p{
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 22px;
+   }
+   .hind-32{
+    margin-top: 80px;
+   }
+   .hind-35{
+     text-align: center;
+     margin-bottom: 90px;
+     margin-left: 50%;
+     width: 131px;
+   }
+   .hind-35 p{
+    background-color: #ffce00;
+    padding: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+   }
