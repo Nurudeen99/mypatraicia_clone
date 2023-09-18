@@ -816,3 +816,21 @@
     font-weight: 500;
     border-radius: 5px;
    }
+   .hind-37 {
+    margin-left: 25px;
+    width: 50%;
+   }
+   .hind-37 h1{
+    font-size: 45px;
+    color: #006156;
+    line-height: 58px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .hind-37 p{
+    margin: 30px 0 30px 0;
+    font-size: 15px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 26px;
+   }
