@@ -716,6 +716,7 @@
       height: 500px;
       margin-top: 150px;
     }
+   
    .hind-28{
     text-align: center;
     font-size: 1.5rem;
@@ -872,4 +873,67 @@
     margin-bottom: 100px;
     border-radius: 5px;
    }
-  
+  .hind-42{
+    width: 55%;
+    height: 400px;
+    display: flex;
+    margin-left: 100px;
+    padding-right: 20px;
+    border-radius: 30px;
+    margin-top: 150px;
+    background-color: beige;
+  }
+  .hind-43 img{
+    border-top-left-radius: 30px ;
+    border-bottom-left-radius: 30px ;
+  }
+  .hind-44{
+    margin-top: 50px;
+    margin-left: 30px;
+  }
+  .hind-45{
+    background-color: #deffe5;
+    width: 90px;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .hind-45 p{
+    font-size: 11px;
+    color: #188f32;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .hind-47 h2{
+     color: #006156;
+     font-size: 30px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-bottom: 10px;
+  }
+  .hind-47 p{
+    font-family: 13px;
+    line-height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .vl2{
+    border-bottom: 1px solid grey;
+    margin-top: 10px;
+  }
+  .hind-49{
+    display: flex;
+    margin: 30px;
+  }
+  .hind-49 h5{
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 10px;
+   font-size: 11px;
+ }
+  li{
+    list-style-type: disc;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    color: #006156;
+    font-size: 11px;
+  }
